@@ -1,0 +1,22 @@
+body{
+    background-color: blanchedalmond;
+    color: burlywood;
+    margin: 0 0 0 0;
+}
+
+a {
+    color: white;
+}
+
+.topnav{
+    background-color: burlywood;
+}
+
+.active{
+    color: blanchedalmond;
+}
+
+img{
+    height: 30%;
+    width: 30%;
+}
